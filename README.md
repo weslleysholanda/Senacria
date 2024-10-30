@@ -3,8 +3,13 @@ Este é meu primeiro projeto de site, criado durante o curso de Técnico em Info
 
 Projeto de Página Frontend
 O Senacria é uma página frontend criada para praticar e demonstrar minhas habilidades iniciais em desenvolvimento web, com uma interface interativa e responsiva. Utilizei HTML, CSS e JavaScript para criar a estrutura e funcionalidades no front-end, enquanto o PHP e o PHPMailer foram implementados para o envio de e-mails, adicionando uma camada de interação de back-end.
-
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Weslley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Weslley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Weslley-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Weslley-Jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg"/>    
+  <img align="center" alt="Weslley-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />   
+</div>
 Tecnologias Utilizadas
 HTML5: estrutura da página e marcação semântica.
 CSS3: estilização responsiva e layout, incluindo Flexbox para organização de elementos.
